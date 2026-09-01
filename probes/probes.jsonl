@@ -1,0 +1,6 @@
+{"input": "1", "expect": 1, "task": "octal", "lang": "python"}
+{"input": "10", "expect": 8, "task": "octal", "lang": "python"}
+{"input": "17", "expect": 15, "task": "octal", "lang": "python"}
+{"input": "130", "expect": 88, "task": "octal", "lang": "python"}
+{"input": "2047", "expect": 1063, "task": "octal", "lang": "python"}
+{"input": "1234567", "expect": 342391, "task": "octal", "lang": "python"}
